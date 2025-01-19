@@ -1,5 +1,5 @@
 
-**In the project basically i create a chat room feature like we  create groups and discuss thoughts and also integrate gemini ai model 1.5 that help for solution.**
+**In the project basically i create a chat room feature like we  create groups and discuss thoughts and also integrate gemini ai model 1.5 that help for solution.**\n
 **It help when any person works in a group and have some discussion on particular topic then without going to anywhere they can easily search there problems through it**
 **To use gemini ai use keyword @ai and give neat and clean prompt.**
 **If anyone clone the project then follow these instructions:**
